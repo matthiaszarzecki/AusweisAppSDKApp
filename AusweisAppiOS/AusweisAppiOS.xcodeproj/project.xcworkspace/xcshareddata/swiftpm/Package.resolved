@@ -1,0 +1,24 @@
+{
+  "originHash" : "df4378e0c8cb10153a4d2f6147d95927b4e3b9307fc4777eda4ec81e656243be",
+  "pins" : [
+    {
+      "identity" : "ausweisapp2-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Governikus/AusweisApp2-SDK-iOS",
+      "state" : {
+        "revision" : "53ee0c6b86c066ca90903deaedb8f02254ec2a34",
+        "version" : "2.4.1"
+      }
+    },
+    {
+      "identity" : "ausweisapp2wrapper-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Governikus/AusweisApp2Wrapper-iOS-SPM",
+      "state" : {
+        "revision" : "7fed0ff7e14f950bf68b0da16872dec97e1b5a1c",
+        "version" : "2.4.1"
+      }
+    }
+  ],
+  "version" : 3
+}
