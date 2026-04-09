@@ -14,22 +14,9 @@
 		A159D1B72F850A740016D48E /* AusweisAppiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AusweisAppiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		A159D1D02F8521670016D48E /* Exceptions for "AusweisAppiOS" folder in "AusweisAppiOS" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = A159D1B62F850A740016D48E /* AusweisAppiOS */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		A159D1B92F850A740016D48E /* AusweisAppiOS */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				A159D1D02F8521670016D48E /* Exceptions for "AusweisAppiOS" folder in "AusweisAppiOS" target */,
-			);
 			path = AusweisAppiOS;
 			sourceTree = "<group>";
 		};

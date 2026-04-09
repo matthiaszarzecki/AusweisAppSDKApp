@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-  flutter_inappwebview: 5.7.2+3
+  flutter_inappwebview: ^6.1.5
   url_launcher: any
   http: any
 
